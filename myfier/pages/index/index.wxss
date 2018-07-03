@@ -1,0 +1,40 @@
+swiper{
+  width: 100%;
+  height: 492rpx;
+}
+swiper img{
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.list-item{
+  float: left;
+  width: 750rpx;
+  height: 238rpx;
+  /* border: 1rpx solid red; */
+  box-shadow: 10px 10px 5px #888888;
+}
+.item-img{
+  overflow: hidden;
+}
+.fy-hllow{
+  float: left;
+  margin-left: 72rpx;
+  margin-top: 72rpx;
+  width: 250rpx;
+  height: 170rpx;
+  
+}
+.fy-item{
+  float: left;
+  margin-left: 36rpx;
+  margin-top: 72rpx;
+  font-weight: bold;
+}
+.fy-number{
+  float: left;
+  margin-left: 36rpx;
+  margin-top: 36rpx;
+  font-size:30rpx;
+  color: #929292;
+}

@@ -1,0 +1,16 @@
+<view class='section'>
+  <view class='section-img'>
+      <image src="../../img/rw3.jpg"></image>
+  </view>
+</view>
+<view class='list-div'>
+  <view class='list-left'>
+      <image></image>
+  </view>
+  <view class='list-text'>
+  
+  </view>
+  <view class='list-right'>
+
+  </view>
+</view>

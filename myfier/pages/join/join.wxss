@@ -1,0 +1,19 @@
+/* pages/join/join.wxss */
+.section{
+  float: left;
+  width: 750rpx;
+  height: 340rpx;
+  /* border: 1px solid red; */
+  background-color: #349cff
+}
+.list-div{
+  float: left;
+  width: 750rpx;
+  height: 85rpx;
+  border-bottom: 1px solid #f1f1f1;
+}
+.list-left{
+  float: left;
+  margin-left: 30rpx;
+  margin-top: 30rpx;
+}

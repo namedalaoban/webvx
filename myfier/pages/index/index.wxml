@@ -1,0 +1,43 @@
+<swiper indicator-dots="{{indicatorDots}}"
+  autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}" indicator-dots="true">
+  <block wx:for="{{imgUrls}}">
+    <swiper-item>
+      <image src="{{item}}" class="slide-image" width="355" height="150"/>
+    </swiper-item>
+  </block>
+</swiper>
+<view class='list-item'>
+    <view item-img>
+        <image src='/img/ma_1.png' class='fy-hllow'></image>
+        <view class='fy-item'>方元房贷-个人住房</view>
+        <view class='fy-number'>已申请0人</view>
+    </view>
+</view>
+<view class='list-item'>
+    <view item-img>
+        <image src='/img/ma_1.png' class='fy-hllow'></image>
+        <view class='fy-item'>方元房贷-个人商业房</view>
+        <view class='fy-number'>已申请0人</view>
+    </view>
+</view>
+<view class='list-item'>
+    <view item-img>
+        <image src='/img/ma_1.png' class='fy-hllow'></image>
+        <view class='fy-item'>方元房贷-个人商业房</view>
+        <view class='fy-number'>已申请0人</view>
+    </view>
+</view>
+<view class='list-item'>
+    <view item-img>
+        <image src='/img/ma_1.png' class='fy-hllow'></image>
+        <view class='fy-item'>方元房贷-个人商业房</view>
+        <view class='fy-number'>已申请0人</view>
+    </view>
+</view>
+<view class='list-item'>
+    <view item-img>
+        <image src='/img/ma_1.png' class='fy-hllow'></image>
+        <view class='fy-item'>方元房贷-个人商业房</view>
+        <view class='fy-number'>已申请0人</view>
+    </view>
+</view>
